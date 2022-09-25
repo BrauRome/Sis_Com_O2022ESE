@@ -1,0 +1,5 @@
+C:\Users\it\Documents\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_lwip_tcpecho_freertos_my_aes_crc\drivers/fsl_clock.h:679:20:CLOCK_DisableClock	24	static
+C:\Users\it\Documents\MCUXpressoIDE_11.6.0_8187\workspace\frdmk64f_lwip_tcpecho_freertos_my_aes_crc\drivers/fsl_crc.h:105:20:CRC_Deinit	16	static
+../source/my_aes_crc.c:17:13:InitCrc32	32	static
+../source/my_aes_crc.c:45:1:my_aes_crc_receive	312	static
+../source/my_aes_crc.c:138:1:my_aes_crc_send	296	static
